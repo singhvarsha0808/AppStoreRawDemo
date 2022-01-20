@@ -1,2 +1,1 @@
-# AppStoreDemo
 # AppStoreRawDemo
